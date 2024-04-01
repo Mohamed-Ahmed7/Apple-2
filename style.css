@@ -69,7 +69,7 @@ nav ul a:hover {
 }
 @media (max-width: 767px) {
   #home {
-    height: 120vh;
+    height: 130vh;
   }
   nav {
     flex-direction: column;
